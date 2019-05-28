@@ -1,2 +1,6 @@
 # dashClone
-blackchainTest
+blockchainTest
+
+Tests :
+- Masternode
+- Wallet Application
